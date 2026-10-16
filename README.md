@@ -23,7 +23,7 @@ O **Lion App** é uma ferramenta desenvolvida no Microsoft Excel para ajudar a o
 
 | Titular | Informes bancários | Notas e entradas |
 | --- | --- | --- |
-| ![Tela de dados do titular](./images/Tela_Titular.png) | ![Tela de informações bancárias](./images/Tela_infobank.png) | ![Tela de notas e entradas](./images/Tela_notas.png) |
+| ![Tela de dados do titular](./images/Tela_Titular.png) | ![Tela de informações bancárias](./images/tela_infobank.png) | ![Tela de notas e entradas](./images/Tela_notas.png) |
 
 ## Consulta e exibição de bancos
 
